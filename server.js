@@ -1,7 +1,7 @@
 // static file http server
 // serve files for application directory
 
-var fs = require("fs");
+var fs = require("fs"); 
 var http = require("http");
 var url = require("url");
 
